@@ -1,0 +1,6 @@
+name = input("请输入名字： ")
+print('你好！', name)
+shengao = input('请输入你的身高： ')
+tizhong = input('请输入你的体重： ')
+print('你的身高为：', shengao)
+print('你的体重为：', tizhong)
